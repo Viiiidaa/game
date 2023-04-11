@@ -1,4 +1,4 @@
-# Guess the Number Game
+# Guess the Secret Number Game
 
 ## Introduction
 - Welcome to the "Guess the Secret Number" game, an engaging and enjoyable Python-based console game. The objective of the game is to guess a randomly generated number between 1 and 100. The program offers hints to help players determine if their guess is too high or too low, while keeping track of the number of attempts and the time taken to guess the correct number. Players can compare their performance with a list of the top 5 best scores.
