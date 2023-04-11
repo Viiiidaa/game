@@ -21,3 +21,5 @@ python guess_secret_number.py
 ## Prerequisites and Dependencies
 
 - Python 3.x: This game requires Python 3.x to function. Check your Python version by running python --version or python3 --version in the terminal or command prompt.
+
+This project has been coded by Vida Khosravani
